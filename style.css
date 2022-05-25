@@ -1,60 +1,61 @@
-
-h1, h3{
+h1, h3 {
   font-weight: bold;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins',
+   sans-serif;
 }
 
-a{
+a {
   font-weight: bold;
   font-family: 'Poppins', sans-serif;
   text-decoration: none;
-  color: #6070FF;
+  color: #6070ff;
 }
 
-img{
+img {
   margin-top: 20%;
   margin-left: 10%;
   position: absolute;
   bottom: 50px;
   z-index: -1;
 }
-.container{
+
+.container {
   background: white;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
 
-.navbar{
-  color: #6070FF;
+.navbar {
+  color: #6070ff;
   margin: 3%;
 }
 
-.fa-solid{
-  color: #6070FF;
+.fa-solid {
+  color: #6070ff;
   font-size: 2rem;
-  margin: 5%
+  margin: 5%;
 }
 
-.body{
+.body {
   display: flex;
   flex-direction: column;
   min-height: 30vh;
   justify-content: center;
 }
 
-.paragraph{
+.paragraph {
   margin: 9% 5%;
   text-align: left;
 }
 
-.emoji{
+.emoji {
   font-size: 1.5rem;
   color: black;
   margin: 5px;
 }
 
-.first-text{
+.first-text {
   font-size: 4rem;
   line-height: 1.5;
 }
