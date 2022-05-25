@@ -1,0 +1,60 @@
+
+h1, h3{
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+}
+
+a{
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+  color: #6070FF;
+}
+
+img{
+  margin-top: 20%;
+  margin-left: 10%;
+  position: absolute;
+  bottom: 50px;
+  z-index: -1;
+}
+.container{
+  background: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.navbar{
+  color: #6070FF;
+  margin: 3%;
+}
+
+.fa-solid{
+  color: #6070FF;
+  font-size: 2rem;
+  margin: 5%
+}
+
+.body{
+  display: flex;
+  flex-direction: column;
+  min-height: 30vh;
+  justify-content: center;
+}
+
+.paragraph{
+  margin: 9% 5%;
+  text-align: left;
+}
+
+.emoji{
+  font-size: 1.5rem;
+  color: black;
+  margin: 5px;
+}
+
+.first-text{
+  font-size: 4rem;
+  line-height: 1.5;
+}
