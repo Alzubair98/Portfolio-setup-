@@ -1,14 +1,16 @@
-h1, 
+h1,
 h3 {
   font-weight: bold;
-  font-family: 'Poppins',
-   sans-serif;
+  font-family:
+    'Poppins',
+    sans-serif;
 }
 
 a {
   font-weight: bold;
-  font-family: 'Poppins',
-   sans-serif;
+  font-family:
+    'Poppins',
+    sans-serif;
   text-decoration: none;
   color: #6070ff;
 }
