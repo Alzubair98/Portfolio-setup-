@@ -1,0 +1,105 @@
+h1,
+p,
+a {
+  font-weight: bold;
+  font-family:
+    'Poppins',
+    sans-serif;
+}
+
+img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.navbar {
+  color: #6070ff;
+  text-decoration: none;
+  font-size: 30px;
+  margin: 3% 0% 0% 3%;
+}
+
+.button {
+  margin: 5%;
+}
+
+.container {
+  background: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.fa-solid {
+  color: #6070ff;
+  font-size: 2rem;
+  margin: 5%;
+}
+
+/* section 2 */
+
+.section-2 {
+  display: flex;
+  flex-direction: column;
+  max-height: 100vh;
+}
+
+.paragraph {
+  margin: 30% auto;
+  text-align: left;
+}
+
+/* text  */
+
+.first-text {
+  width: 327px;
+  color: #172b4d;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 52px;
+  margin-left: 30px;
+}
+
+.second-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
+  margin-left: 30px;
+}
+
+.connect-button {
+  margin: 30% auto;
+  color: #7f8cff;
+  text-decoration: none;
+  position: relative;
+  left: 30px;
+}
+
+/* soial-buttong */
+.social-buttons {
+  text-align: left;
+  margin-left: 30px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+}
+
+.emoji {
+  font-size: 1.5rem;
+  margin: 3px;
+  color: #505f79;
+  padding: 0 5px;
+}
+
+.emoji1 {
+  padding-left: 0;
+}
