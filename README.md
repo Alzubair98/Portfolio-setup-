@@ -2,7 +2,7 @@
 Portfolio skeleton
 
 > Description the project.
-this project is the secomd project with microverse
+the second project with the microverse , bulding the portfoilo skelton
 
 
 ## Built With
