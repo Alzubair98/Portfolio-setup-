@@ -114,6 +114,12 @@ ul {
 
 /* section 3 */
 
+.section-3 {
+  display: grid;
+  vertical-align: bottom;
+  margin-top: 30px;
+}
+
 .card {
   display: flex;
   flex-direction: column;
@@ -305,6 +311,20 @@ ul {
   color: #396df2;
 }
 
+.normal:hover {
+  background-color: #5d8bf4;
+  color: white;
+}
+
+.normal:active {
+  background-color: #2d31fa;
+}
+
+.normal:disabled {
+  background-color: #344563;
+  color: #344563;
+}
+
 /* section 6 */
 
 .img-holder {
@@ -376,6 +396,20 @@ ul {
   font-size: 17px;
   line-height: 24px;
   color: #396df2;
+}
+
+.f-normal:hover {
+  background-color: #5d8bf4;
+  color: white;
+}
+
+.f-normal:active {
+  background-color: #2d31fa;
+}
+
+.f-normal:disabled {
+  background-color: #344563;
+  color: #344563;
 }
 
 .buttom-btn {
